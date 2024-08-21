@@ -1,11 +1,10 @@
-# Gmail Spam Classifier
+# Mail Spam Classifier
 
-This project is a machine learning model to classify emails as spam or ham using logistic regression. The model is trained on a dataset of labeled emails and can be directly linked with Gmail to classify incoming emails.
+This project is a machine learning model to classify emails as spam or ham using logistic regression. 
 
 ## Features
 - Tfidf Vectorization
 - Logistic Regression Model
-- Gmail API Integration
 
 ## How to Run
 1. Clone the repository.
